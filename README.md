@@ -7,12 +7,12 @@ PS> Write-HostColor '`rThis is red` this is default `yThis is yellow`'.
 ```
 
   #### Help Menu
-  ![Help](https://github.com/rascoro1/Write-HostColor/blob/master/pics/help.png)
+  ![Help](https://github.com/rascoro1/Write-HostColor/blob/master/pics/help.PNG)
 
 
 #### Example
-![Test](https://github.com/rascoro1/Write-HostColor/blob/master/pics/test.png)
-![Ran](https://github.com/rascoro1/Write-HostColor/blob/master/pics/ran.png)
+![Test](https://github.com/rascoro1/Write-HostColor/blob/master/pics/test.PNG)
+![Ran](https://github.com/rascoro1/Write-HostColor/blob/master/pics/ran.PNG)
 
 
 
